@@ -1,0 +1,16 @@
+body{
+	background-color: #eee;
+}
+
+#image{
+	top: 0;
+	left:0;
+	width: 500px;
+}
+
+
+#dynamicButton{
+	width: 500px;
+	background-color: #474853;
+    color: #FAEBD7;
+}
